@@ -1,0 +1,73 @@
+
+	#section-left{
+		width: 35%;
+		float: left;
+		height: 100%;
+		background-color: #c62828 ;
+		color: #fff; 
+		text-align: center;
+	}
+	#section-left .section{
+		margin-top: 10%;
+		padding: 5%;
+	}
+	#section-left .section .logo{
+		height: 150px;
+		width: 150px;
+		border-radius: 50%;
+		margin:  0 auto;
+		background: url('https://previews.123rf.com/images/carmenbobo/carmenbobo1312/carmenbobo131200063/24308511-stamp-with-word-sample-inside-vector-illustration.jpg');
+	}
+	.intro hr{
+		width: 4%;
+		display: block;
+		height: 2%;
+		border: 0;
+		border-top: 2% solid;
+	}
+	 .dob{
+	 	text-decoration: overline underline;
+	 }
+	 .intro .content{
+	 	margin-bottom: 3%;
+	 }
+	 #contact{
+	 	margin-top: 3%; 
+	 }
+	 h1{
+
+	 	font-family: 'Open Sans', sans-serif;
+	 	text-transform: uppercase;
+	 }
+	 #section-right{
+	 	width: 65%;
+	 	float: right;
+	 }
+	 #section-right .section{
+	 	margin:  0 0 0 0;
+	 }
+	 .wrapper{
+	 	padding: 2%; 
+	 }
+	 .fa{
+	 	margin-right: 15px;
+	 }
+	 .wrapper .title{
+	 	color: #fc7a70;
+	 	font-size: 1.3em;
+	 	font-variant: small-caps;
+	 	letter-spacing: 0.1em;
+	 	font-weight: bold;
+	 	border-bottom: 2px solid #f2f2f2;
+	 }
+
+	 li{
+	 	color: #777;
+	 }
+	 p{
+	 	color: #777;
+	 }
+	
+	 div.title{
+	 	margin-bottom: -15px
+	 }
